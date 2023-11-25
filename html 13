@@ -1,0 +1,51 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+<style>
+    .sp{
+        border: 4px solid green;
+        background-color: brown;
+        padding: 10px 20px 20PX 20px;
+        margin:50px 150px;
+        display: flex;
+        flex-direction: row;
+        width: 400px; height: 300px;
+        gap: 10px;
+    }
+    .sp1{
+        border: 1px solid yellow;height:310px;
+        padding: 5px;
+    }
+    .sp2{
+        border: 3px solid blue;height:310px;
+        padding: 5px;
+    }
+    .sp3{
+        border: 1px solid white;height:310px;
+        padding: 5px;
+    }
+</style>
+    </head>
+    <body>
+<div class="sp">
+    
+    <div class="sp1"><img src="../10kcoders/anirudh.jpg"width="100"height="100"/></td>
+    <img src="../10kcoders/thaman.jpg"width="100"height="100"></td>
+    <img src="../10kcoders/dsp.webp"width="100"height="100"/></td> 
+    </div>
+    <div class="sp2"><img src="../10kcoders/hiphop.jpg"width="100"height="100"/>
+       <img src="../10kcoders/car.webp"width="100"height="100"/>
+       <img src="../10kcoders/nature1.webp"width="100"height="100"/>
+    </div>
+    <div class="sp3"><img src="../10kcoders/krishna.jpg"width="100"height="100"/>
+        <img src="../10kcoders/shiva - Copy.jpg"width="100"height="100"/>
+        <img src="../10kcoders/hanuman.jpg"width="100"height=100/>
+     
+    </div>
+</div>
+    </body>
+    </html>
